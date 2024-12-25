@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any good project
-- 📫 How to reach me follow me here
+- 📫 How to reach me follow me on insta aryan_._mehta
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: i am quick learner
 
