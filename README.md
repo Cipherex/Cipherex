@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on genertaive ai, unity game.
+- 🔭 I’m currently working on generative ai, unity game.
 
-- 🌱 I’m currently learning **C++ with dsa, react-js**
+- 🌱 I’m currently learning **DSA with C++, Java and JS.**
 
-- 📫 How to reach me **aryanmehtayt2@gmail.com**
+- 📫 How to reach me: **aryanmehtayt2@gmail.com**
+
+- 🔸 I know Python, C, Cpp and have good knowledge of Git, Linux, VScode.
 
 - ⚡ Fun fact **I am quick learner**
 
